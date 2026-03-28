@@ -1,0 +1,35 @@
+Stay Safe Online – Prevention Checklist
+Account & Password Security
+- Use strong passwords with a mix of uppercase, lowercase, numbers, and symbols (minimum 8–12 characters)  
+- Never reuse the same password across multiple accounts  
+- Enable two-factor authentication (2FA) for email, social media, and banking apps  
+- Log out from shared or public devices after use  
+
+ Safe Browsing & Downloads
+- Always check the website URL (look for https:// and correct spelling) before entering personal information  
+- Avoid clicking on unknown links from emails, SMS, or social media messages  
+- Download apps and software only from official sources (Google Play Store, App Store, official websites)  
+- Do not open suspicious attachments, even if they appear from known contacts  
+
+ Device & Network Safety
+- Keep your phone, laptop, and apps updated with the latest security patches  
+- Install antivirus software and scan your device regularly  
+- Avoid using public Wi-Fi for sensitive activities like banking or logging into accounts  
+- Use a secure lock (PIN, fingerprint, or face lock) on your devices  
+
+ UPI & Financial Safety (Very Important)
+- Never share your OTP, UPI PIN, CVV, or bank details with anyone — no bank ever asks for this  
+- Do not approve “Collect Requests” unless you initiated the transaction yourself  
+- Always verify the receiver’s name before sending money  
+- Remember: To receive money, you DO NOT need to enter your UPI PIN  
+
+Social Media Awareness
+- Do not share personal information like address, phone number, or college details publicly  
+- Think before posting — once shared online, content can be difficult to remove  
+- Avoid engaging in online arguments or responding to unknown profiles  
+- Report and block suspicious or abusive accounts immediately  
+
+ Reporting Cybercrime (India)
+- Report any cybercrime immediately at: https://cybercrime.gov.in  
+- Call the Cyber Crime Helpline: 1930  
+- Inform your bank immediately in case of financial fraud to prevent further loss   
